@@ -1,16 +1,13 @@
-### Hi there 👋
+# Séléna Laval
 
-<!--
-**Ternoc/Ternoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur ma page github.
 
-Here are some ideas to get you started:
+⚛️ Actuellement étudiante en licence de Physique à l'[Université de Bordeaux](https://physique.u-bordeaux.fr), je programme principalement dans le cadre de ce cursus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐍 Ainsi, j'utilise principalement le language **python** avec les bilbiothèques [numpy](https://numpy.org) et [matplotlib](https://matplotlib.org/) pour le traitement de données.
+
+➕ Je possède également des connaissances en **C++**, notamment la bibliothèque [Qt](https://qt.io).
+
+## Liens
+
+[Site internet](https://ternoc.com) | [Twitter](https://twitter.com/SelenaCCLaval) | [Mastodon](https://rivals.space/@selena) | [Telegram](https://t.me/ternoc) | Discord : ternoc#0121
