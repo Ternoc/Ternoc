@@ -8,6 +8,12 @@ Bienvenue sur ma page github.
 
 ➕ Je possède également des connaissances en **C++**, notamment la bibliothèque [Qt](https://qt.io).
 
+## LaTeX
+
+Afin de réaliser des documents de rendus dans le cadre de mes études, j'utilise le language [LaTeX](https://www.latex-project.org/).
+
+Vous trouverez sur ce profil un dépôt boîte à outils LaTeX contenant des exemples utiles à la réalisation de documents. 
+
 ## Liens
 
 [Site internet](https://ternoc.com) | [Twitter](https://twitter.com/SelenaCCLaval) | [Mastodon](https://rivals.space/@selena) | [Telegram](https://t.me/ternoc) | Discord : ternoc#0121
