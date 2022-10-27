@@ -16,4 +16,4 @@ Vous trouverez sur ce profil un dépôt boîte à outils LaTeX contenant des exe
 
 ## Liens
 
-[Site internet](https://ternoc.com) | [Twitter](https://twitter.com/SelenaCCLaval) | [Mastodon](https://rivals.space/@selena) | [Telegram](https://t.me/ternoc) | Discord : ternoc#0121
+[Site internet](https://ternoc.com) | [Twitter](https://twitter.com/SelenaCCLaval) | [Mastodon](https://rivals.space/@selena) | [Telegram](https://t.me/ternoc) | [Wikipedia](https://fr.wikipedia.org/wiki/Utilisatrice:Ternoc) | Discord : ternoc#0121
