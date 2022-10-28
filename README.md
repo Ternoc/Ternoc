@@ -18,4 +18,4 @@ Vous trouverez sur ce profil un dépôt boîte à outils LaTeX contenant des exe
 
 [Site internet](https://ternoc.com) | [Twitter](https://twitter.com/SelenaCCLaval) | [Mastodon](https://rivals.space/@selena) | [Telegram](https://t.me/ternoc) | [Wikipedia](https://fr.wikipedia.org/wiki/Utilisatrice:Ternoc) | Discord : ternoc#0121
 
-Clé PGP : 0xA8B446149989BAA5 [miroir sur le dépôt](https://github.com/Ternoc/Ternoc/blob/main/0xA8B446149989BAA5-pub.asc)
+Clé PGP : 0xA8B446149989BAA5 ([miroir sur le dépôt](https://raw.githubusercontent.com/Ternoc/Ternoc/main/0xA8B446149989BAA5-pub.asc))
